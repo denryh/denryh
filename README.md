@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dat, but you can call me Henry. I'm a self-taught software engineer.
+My name is Dat, a software developer, and you can call me Henry.
 
 - 🔭 I’m currently working on getting my first job.
 - 🌱 Focusing in full-stack web development.
