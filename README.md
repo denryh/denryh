@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
-My name is Dat, a software developer, and you can call me Henry.
+a software developer, focusing in full-stack web development.
 
-- 🌱 Focusing in full-stack web development.
 - 📫 Reach me via my email or linkedin: [dg.thdat@gmail.com](mailto:dg.thdat@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dgthanhdat/)
 
 Visit my portfolio: https://portfolio-denryh.vercel.app/
